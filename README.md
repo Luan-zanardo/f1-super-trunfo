@@ -21,6 +21,6 @@ Um aplicativo simples de cartas no estilo **Super Trunfo** com pilotos lendário
     ```
 2.  Inicie o servidor do Expo:
     ```bash
-    npx expo start --port 8082
+    npx expo start
     ```
 3.  Abra o aplicativo **Expo Go** no celular e escaneie o **QR Code** gerado no terminal.
